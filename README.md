@@ -1,0 +1,3 @@
+# mining-lego-data
+Repo for Master Thesis
+Will update more soon...
