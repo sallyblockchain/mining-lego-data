@@ -1,3 +1,5 @@
 # mining-lego-data
-Repo for Master Thesis
-Will update more soon...
+Repository for Master Thesis - "Mining LEGO Data Sets to Support LEGO Design"  
+Will update more soon...  
+
+© Xiaodan Zhang 2015 All Rights reserved.  
